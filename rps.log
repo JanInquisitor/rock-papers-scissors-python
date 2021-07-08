@@ -1,0 +1,96 @@
+[2021-07-06] App starting up...
+[2021-07-06] Loaded rolls: ['rock', 'paper', 'scissors', 'air', 'fire', 'sponge', 'water'] from rolls.json.
+[2021-07-06] Jan has logged in.
+[2021-07-06] New game starting between Jan and Computer.
+[2021-07-06] Round: Jan roll rock and Computer rolls water
+[2021-07-06] Computer takes the round!
+[2021-07-06] Score is Jan: 0 and Computer: 1.
+[2021-07-06] Round: Jan roll rock and Computer rolls scissors
+[2021-07-06] Jan takes the round!
+[2021-07-06] Score is Jan: 1 and Computer: 1.
+[2021-07-06] Round: Jan roll rock and Computer rolls fire
+[2021-07-06] Jan takes the round!
+[2021-07-06] Score is Jan: 2 and Computer: 1.
+[2021-07-06] Round: Jan roll rock and Computer rolls rock
+[2021-07-06] This round was a tie!
+[2021-07-06] Score is Jan: 2 and Computer: 1.
+[2021-07-06] Round: Jan roll rock and Computer rolls air
+[2021-07-06] Computer takes the round!
+[2021-07-06] Score is Jan: 2 and Computer: 2.
+[2021-07-06] Round: Jan roll rock and Computer rolls paper
+[2021-07-06] Computer takes the round!
+[2021-07-06] Score is Jan: 2 and Computer: 3.
+[2021-07-06] Computer wins the game!
+[2021-07-06] Game over.
+[2021-07-06] App starting up...
+[2021-07-06] Loaded rolls: ['rock', 'paper', 'scissors', 'air', 'fire', 'sponge', 'water'] from rolls.json.
+[2021-07-06] jAN has logged in.
+[2021-07-06] New game starting between jAN and Computer.
+[2021-07-06] App starting up...
+[2021-07-06] Loaded rolls: ['rock', 'paper', 'scissors', 'air', 'fire', 'sponge', 'water'] from rolls.json.
+[2021-07-06] Jan has logged in.
+[2021-07-06] New game starting between Jan and Computer.
+[2021-07-06] App starting up...
+[2021-07-06] Loaded rolls: ['rock', 'paper', 'scissors', 'air', 'fire', 'sponge', 'water'] from rolls.json.
+[2021-07-06] 7 has logged in.
+[2021-07-06] New game starting between 7 and Computer.
+[2021-07-06] App starting up...
+[2021-07-06] Loaded rolls: ['rock', 'paper', 'scissors', 'air', 'fire', 'sponge', 'water'] from rolls.json.
+[2021-07-06] Jan has logged in.
+[2021-07-06] New game starting between Jan and Computer.
+[2021-07-06] Round: Jan roll water and Computer rolls fire
+[2021-07-06] This round was a tie!
+[2021-07-06] Score is Jan: 0 and Computer: 0.
+[2021-07-06] Round: Jan roll water and Computer rolls scissors
+[2021-07-06] Jan takes the round!
+[2021-07-06] Score is Jan: 1 and Computer: 0.
+[2021-07-06] App starting up...
+[2021-07-06] Loaded rolls: ['rock', 'paper', 'scissors', 'air', 'fire', 'sponge', 'water'] from rolls.json.
+[2021-07-06] Jan has logged in.
+[2021-07-06] New game starting between Jan and Computer.
+[2021-07-06] Round: Jan roll water and Computer rolls paper
+[2021-07-06] Computer takes the round!
+[2021-07-06] Score is Jan: 0 and Computer: 1.
+[2021-07-06] App starting up...
+[2021-07-06] Loaded rolls: ['rock', 'paper', 'scissors', 'air', 'fire', 'sponge', 'water'] from rolls.json.
+[2021-07-06] 7 has logged in.
+[2021-07-06] New game starting between 7 and Computer.
+[2021-07-06] App starting up...
+[2021-07-06] Loaded rolls: ['rock', 'paper', 'scissors', 'air', 'fire', 'sponge', 'water'] from rolls.json.
+[2021-07-06] Jan has logged in.
+[2021-07-06] New game starting between Jan and Computer.
+[2021-07-06] Round: Jan roll water and Computer rolls scissors
+[2021-07-06] Jan takes the round!
+[2021-07-06] Score is Jan: 1 and Computer: 0.
+[2021-07-06] Round: Jan roll water and Computer rolls sponge
+[2021-07-06] Computer takes the round!
+[2021-07-06] Score is Jan: 1 and Computer: 1.
+[2021-07-06] Round: Jan roll water and Computer rolls scissors
+[2021-07-06] Jan takes the round!
+[2021-07-06] Score is Jan: 2 and Computer: 1.
+[2021-07-06] Round: Jan roll water and Computer rolls scissors
+[2021-07-06] Jan takes the round!
+[2021-07-06] Score is Jan: 3 and Computer: 1.
+[2021-07-06] Jan wins the game!
+[2021-07-06] Game over.
+[2021-07-06] App starting up...
+[2021-07-06] Loaded rolls: ['rock', 'paper', 'scissors', 'air', 'fire', 'sponge', 'water'] from rolls.json.
+[2021-07-06] Jan has logged in.
+[2021-07-06] New game starting between Jan and Computer.
+[2021-07-06] Round: Jan roll water and Computer rolls rock
+[2021-07-06] Jan takes the round!
+[2021-07-06] Score is Jan: 1 and Computer: 0.
+[2021-07-06] Round: Jan roll water and Computer rolls rock
+[2021-07-06] Jan takes the round!
+[2021-07-06] Score is Jan: 2 and Computer: 0.
+[2021-07-06] Round: Jan roll water and Computer rolls sponge
+[2021-07-06] Computer takes the round!
+[2021-07-06] Score is Jan: 2 and Computer: 1.
+[2021-07-06] Round: Jan roll water and Computer rolls paper
+[2021-07-06] Computer takes the round!
+[2021-07-06] Score is Jan: 2 and Computer: 2.
+[2021-07-06] Round: Jan roll water and Computer rolls rock
+[2021-07-06] Jan takes the round!
+[2021-07-06] Score is Jan: 3 and Computer: 2.
+[2021-07-06] Jan wins the game!
+[2021-07-06] Game over.
